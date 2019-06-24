@@ -1,7 +1,7 @@
 - title: Code Complete
   author: Steve McConnell
   link: https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=fa6efb6aa9777ccbcb2a9da48fcc11e1&language=en_US
-  description: Illustrates the art and science of software construction.
+  description: Widely considered one of the best practical guides to programming, this book llustrates the art and science of software construction.
   amazon-rating: 4.6
   image: code_complete.jpg
   release-date: June 19, 2004
@@ -12,6 +12,27 @@
   amazon-rating: 4.6
   image: peopleware.jpg
   release-date: June 28, 2013
+- title: Without Their Permission
+  author: Alexis Ohanian
+  link: https://www.amazon.com/Without-Their-Permission-Century-Managed/dp/1455520020/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=dd8dd3455895b24b5ab640fef68fbbfb&language=en_US
+  description: Reddit co-founder enlightens how the internet can be harnessed to create new technologies, businesses or charities, with results that can be absolutely stunning.
+  amazon-rating: 4.0
+  image: without_their_permission.jpg
+  release-date: October 1, 2013
+- title: Fumbling the Future
+  author: Douglas K. Smith & Robert C. Alexander
+  link: https://www.amazon.com/Fumbling-Future-Invented-Personal-Computer/dp/1583482660/ref=as_li_ss_tl?keywords=xerox+book&qid=1561412358&s=gateway&sr=8-2&linkCode=ll1&tag=mainstringarg-20&linkId=9d5738caa8cef611cc60800da317112e&language=en_US
+  description: Tells how Xerox invented the technology of the fastest-growing products of recent times, then miscalculated the opportunity to fully exploit it.
+  amazon-rating: 4.3
+  image: fumbling_the_future.jpg
+  release-date: June 1, 1999
+- title: The Phoenix Project
+  author: Gene Kim & Kevin Behr
+  link: https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=0580e1ad47e1c33af6d99334f95b1340&language=en_US
+  description: In a fast-paced style, 3 luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize.
+  image: the_phoenix_project.jpg
+  amazon-rating: 4.7
+  release-date: January 10, 2013
 - title: Developer Hegemony
   author: Erik Dietrich
   link: https://www.amazon.com/Developer-Hegemony-Erik-Dietrich/dp/0692866809/ref=as_li_ss_tl?crid=12WJL8YKN8ABZ&keywords=developer+hegemony&qid=1561402203&s=books&sprefix=develolper+he,stripbooks,156&sr=1-1&linkCode=ll1&tag=mainstringarg-20&linkId=65539079ce5c1d91743ee33be91803c1&language=en_US
@@ -26,3 +47,17 @@
   amazon-rating: 4.8
   image: effective_java.jpg
   release-date: January 6, 2018
+- title: How Google Works
+  author: Eric Schmidt & Jonathan Rosenberg
+  link: https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328/ref=as_li_ss_tl?keywords=Google+book&qid=1561411964&s=books&sr=1-3&linkCode=ll1&tag=mainstringarg-20&linkId=3085c047f9bb40c1e1dc37dba6ce5aea&language=en_US
+  description: Seasoned Google executives Eric Schmidt and Jonathan Rosenberg provide an insider's guide to Google.
+  amazon-rating: 4.4
+  image: how_google_works.jpg
+  release-date: March 21, 2017
+- title: A Human's Guide to Machine Intelligence
+  author: Kartik Hosanagar
+  link: https://www.amazon.com/gp/product/0525560882/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=mainstringarg-20&linkId=f30153da6fd914a2d14cd8c68767d738&language=en_US
+  description: A professor and entrepreneur examines how algorithms and AI are starting to run every aspect of our lives, and how we can shape the way they impact us.
+  amazon-rating: 4.5
+  image: a_humans_guide_to_machine_intelligence.jpg
+  release-date: March 12, 2019
