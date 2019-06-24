@@ -28,7 +28,7 @@
             <dd>{{ item.release-date }}</dd>
           </dl>
           <p class="description">
-            {{ item.description }}
+            {{ item.description  | truncatewords: 18}}
           </p>
           <a href="{{item.link}}" target="_blank">Amazon Link</a>
         </div>
@@ -62,7 +62,7 @@
             <dd>{{ item.release-date }}</dd>
           </dl>
           <p class="description">
-            {{ item.description }}
+            {{ item.description | truncatewords: 18}}
           </p>
           <a href="{{item.link}}" target="_blank">Amazon Link</a>
         </div>
@@ -97,7 +97,7 @@
             <dd>{{ item.release-date }}</dd>
           </dl>
           <p class="description">
-            {{ item.description }}
+            {{ item.description | truncatewords: 18}}
           </p>
           <a href="{{item.link}}" target="_blank">Amazon Link</a>
         </div>
