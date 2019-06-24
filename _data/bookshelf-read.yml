@@ -1,15 +1,28 @@
 - title: Code Complete
   author: Steve McConnell
   link: https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=fa6efb6aa9777ccbcb2a9da48fcc11e1&language=en_US
-  description: Widely considered one of the best practical guides to programming, Steve McConnell’s original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices—and hundreds of new code samples—illustrating the art and science of software construction.
-  amazon-rating: 4.5
-- title: Code Complete
-  author: Steve McConnell
-  link: https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=fa6efb6aa9777ccbcb2a9da48fcc11e1&language=en_US
-  description: Widely considered one of the best practical guides to programming, Steve McConnell’s original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices—and hundreds of new code samples—illustrating the art and science of software construction.
-  amazon-rating: 4.5
-- title: Code Complete
-  author: Steve McConnell
-  link: https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=fa6efb6aa9777ccbcb2a9da48fcc11e1&language=en_US
-  description: Widely considered one of the best practical guides to programming, Steve McConnell’s original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices—and hundreds of new code samples—illustrating the art and science of software construction.
-  amazon-rating: 4.5
+  description: Illustrates the art and science of software construction.
+  amazon-rating: 4.6
+  image: code_complete.jpg
+  release-date: June 19, 2004
+- title: Peopleware
+  author: Tom DeMarco
+  link: https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=as_li_ss_tl?keywords=peopleware&qid=1561402033&s=books&sr=1-2&linkCode=ll1&tag=mainstringarg-20&linkId=add77a7cfad9567ea7af60e527297f61&language=en_US
+  description: The major issues of software development are human, not technical. They’re not easy issues; but solve them, and you’ll maximize your chances of success.
+  amazon-rating: 4.6
+  image: peopleware.jpg
+  release-date: June 28, 2013
+- title: Developer Hegemony
+  author: Erik Dietrich
+  link: https://www.amazon.com/Developer-Hegemony-Erik-Dietrich/dp/0692866809/ref=as_li_ss_tl?crid=12WJL8YKN8ABZ&keywords=developer+hegemony&qid=1561402203&s=books&sprefix=develolper+he,stripbooks,156&sr=1-1&linkCode=ll1&tag=mainstringarg-20&linkId=65539079ce5c1d91743ee33be91803c1&language=en_US
+  description: A play-by-play of how to leave the corporate carnival and control your own destiny.
+  image: developer_hegemony.jpg
+  amazon-rating: 4.4
+  release-date: April 26, 2017
+- title: Effective Java
+  author: Joshua Bloch
+  link: https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/ref=as_li_ss_tl?keywords=effective+java&qid=1561402317&s=books&sr=1-3&linkCode=ll1&tag=mainstringarg-20&linkId=8f4c617f2f1e8dc66d8012a99c8a5a1f&language=en_US
+  description: The support in modern Java for multiple paradigms increases the need for specific best-practices advice, and this book delivers.
+  amazon-rating: 4.8
+  image: effective_java.jpg
+  release-date: January 6, 2018
