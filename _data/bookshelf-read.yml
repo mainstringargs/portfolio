@@ -26,6 +26,13 @@
   amazon-rating: 4.3
   image: fumbling_the_future.jpg
   release-date: June 1, 1999
+- title: Steve Jobs
+  author: Walter Isaacson
+  link: https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/ref=as_li_ss_tl?keywords=jobs&qid=1561473173&s=gateway&sr=8-8&linkCode=ll1&tag=mainstringarg-20&linkId=c2336045932ddf1d92894e9265ed93ac&language=en_US
+  description: Based on more than forty interviews with Jobs conducted over two years - as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues.
+  image: steve_jobs.jpg
+  amazon-rating: 4.4
+  release-date: October 24, 2011
 - title: The Phoenix Project
   author: Gene Kim & Kevin Behr
   link: https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=0580e1ad47e1c33af6d99334f95b1340&language=en_US
@@ -47,6 +54,13 @@
   amazon-rating: 4.8
   image: effective_java.jpg
   release-date: January 6, 2018
+- title: Elon Musk
+  author: Ashlee Vance
+  link: https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062469673/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=f1dc91fc0241a1fa01017424d4a66316&language=en_US
+  description: In the spirit of Steve Jobs and Moneyball, Elon Musk is both an illuminating and authorized look at the extraordinary life of one of Silicon Valley's most exciting, unpredictable, and ambitious entrepreneurs--a real-life Tony Stark--and a fascinating exploration of the renewal of American invention and its new "makers."
+  amazon-rating: 4.7
+  image: elon_musk.jpg
+  release-date: May 19, 2015
 - title: How Google Works
   author: Eric Schmidt & Jon Rosenberg
   link: https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328/ref=as_li_ss_tl?keywords=Google+book&qid=1561411964&s=books&sr=1-3&linkCode=ll1&tag=mainstringarg-20&linkId=3085c047f9bb40c1e1dc37dba6ce5aea&language=en_US
